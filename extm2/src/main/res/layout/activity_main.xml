@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="401dp"
+        android:text="이지스퍼블리싱 - 웹페이지 : http://easypub.com, 전화번호 : 325-1722,
+        이메일 : easy@easypub.co.kr"
+        android:autoLink="web|email|phone"
+        />
+
+</LinearLayout>
